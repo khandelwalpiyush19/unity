@@ -74,6 +74,7 @@ export const topCategoryStyles = {
       bg: "bg-success-100",
       indicator: "bg-success-700",
     },
+
     icon: "/icons/coins.svg",
   },
   default: {
